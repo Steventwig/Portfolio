@@ -29,19 +29,19 @@ class Landing extends Component {
                             <div className="social-links">
 
                                 {/*Linked IN */}
-                                <a href="https://google.com" rel="noopener noreferrer" target="_blank" >
+                                <a href="https://www.linkedin.com/" rel="noopener noreferrer" target="_blank" >
                                     <i className="fa fa-linkedin" aria-hidden="true"/>
                                 </a>
                                 {/*GitHub */}
-                                <a href="https://google.com" rel="noopener noreferrer" target="_blank" >
+                                <a href="https://github.com/Steventwig" rel="noopener noreferrer" target="_blank" >
                                     <i className="fa fa-github" aria-hidden="true"/>
                                 </a>
                                 {/*Free camp */}
-                                <a href="https://google.com" rel="noopener noreferrer" target="_blank" >
+                                <a href="https://www.freecodecamp.org/" rel="noopener noreferrer" target="_blank" >
                                     <i className="fa fa-free-code-camp" aria-hidden="true"/>
                                 </a>
                                 {/*stack overflow*/}
-                                <a href="https://google.com" rel="noopener noreferrer" target="_blank" >
+                                <a href="https://stackoverflow.com/" rel="noopener noreferrer" target="_blank" >
                                     <i className="fa fa-stack-overflow" aria-hidden="true"/>
                                 </a>
                             </div>

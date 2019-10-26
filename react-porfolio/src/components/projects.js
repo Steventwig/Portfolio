@@ -11,13 +11,12 @@ class Projects extends Component {
             return (
                 <div className="projects-grid">
                 <Card shadow={5} style={{width: '450px', margin: 'auto'}}>
-                    <CardTitle style={{color: '#fff', height: '176px', background: 'url(http://www.getmdl.io/assets/demos/welcome_card.jpg) center / cover'}}>React</CardTitle>
+                    <CardTitle style={{color: '#fff', height: '400px', background: 'url(https://raw.githubusercontent.com/alirezakay/rp-app/master/icon-react.png) center / cover'}}></CardTitle>
                     <CardText>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        Mauris sagittis pellentesque lacus eleifend lacinia...
+                        This Project Was Completed While In My UCD Coding BootCamp
                     </CardText>
                     <CardActions border>
-                        <Button colored>Git Hub</Button>
+                        <Button href="https://github.com/Steventwig/Portfolio" colored>Git Hub</Button>
                     </CardActions>
                     <CardMenu style={{color: '#fff'}}>
                         <IconButton name="share" />
@@ -29,13 +28,13 @@ class Projects extends Component {
             return (
                 <div className="projects-grid">
                     <Card shadow={5} style={{width: '450px', margin: 'auto'}}>
-                        <CardTitle style={{color: 'black', height: '176px', background: 'url(https://www.pubnub.com/wp-content/uploads/2014/07/SOCKETIOICON.gif) center / cover'}}>Socket</CardTitle>
+                        <CardTitle style={{color: 'black', height: '400px', background: 'url(https://www.pubnub.com/wp-content/uploads/2014/07/SOCKETIOICON.gif) center / cover'}}></CardTitle>
                         <CardText>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                            Mauris sagittis pellentesque lacus eleifend lacinia...
+                            This Project Was Completed While In My UCD Coding BootCamp
                         </CardText>
                         <CardActions border>
-                            <Button colored>Git Hub</Button>
+
+                            <Button href="https://github.com/Steventwig/ProjectTwo" colored>Git Hub</Button>
                         </CardActions>
                         <CardMenu style={{color: '#fff'}}>
                             <IconButton name="share" />
@@ -47,13 +46,12 @@ class Projects extends Component {
             return (
                 <div className="projects-grid">
                     <Card shadow={5} style={{width: '450px', margin: 'auto'}}>
-                        <CardTitle style={{color: '#fff', height: '176px', background: 'url(http://www.getmdl.io/assets/demos/welcome_card.jpg) center / cover'}}>React</CardTitle>
+                        <CardTitle style={{color: '#fff', height: '400px', background: 'url(https://pbs.twimg.com/profile_images/1240079072/logo-mysql-170x170_400x400.png) center / cover'}}></CardTitle>
                         <CardText>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                            Mauris sagittis pellentesque lacus eleifend lacinia...
+                            This Project Was Completed While In My UCD Coding BootCamp
                         </CardText>
                         <CardActions border>
-                            <Button colored>Git Hub</Button>
+                            <Button href="https://github.com/Steventwig/Bamazon" colored>Git Hub</Button>
                         </CardActions>
                         <CardMenu style={{color: '#fff'}}>
                             <IconButton name="share" />
@@ -65,13 +63,12 @@ class Projects extends Component {
             return (
                 <div className="projects-grid">
                     <Card shadow={5} style={{width: '450px', margin: 'auto'}}>
-                        <CardTitle style={{color: '#fff', height: '176px', background: 'url(http://www.getmdl.io/assets/demos/welcome_card.jpg) center / cover'}}>React</CardTitle>
+                        <CardTitle style={{color: '#fff', height: '400px', background: 'url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgrup-N-_SwLrptjiCkNsmwAy8kI2nZoIjwmOZGAZ_nZ5rmxOi&s) center / cover'}}></CardTitle>
                         <CardText>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                            Mauris sagittis pellentesque lacus eleifend lacinia...
+                            COMING SOON
                         </CardText>
                         <CardActions border>
-                            <Button colored>Git Hub</Button>
+                            <Button href="https://github.com/Steventwig" colored>Git Hub</Button>
                         </CardActions>
                         <CardMenu style={{color: '#fff'}}>
                             <IconButton name="share" />

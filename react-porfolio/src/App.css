@@ -90,5 +90,11 @@
 .contact-list i{
     font-size: 66px;
     padding-right: 1em;
+}
+/*..................................................................................................................*/
 
+.resume-right-col {
+    background: black;
+    color: white;
+    padding: 2em;
 }

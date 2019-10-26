@@ -8,12 +8,15 @@ class Contact extends Component {
                 <Grid className="contact-grid">
                     <Cell col={6}>
                         <h2>Steven Terwilliger</h2>
-                        <img src="https://cdn2.iconfinder.com/data/icons/avatar-2/512/Fred_man-512.png"
+                        <img src="https://www.cartoonify.de/wp-content/plugins/svg-avatars-generator/data/temp-avatars/svgA9316830944915713.png"
                              alt="avatar"
                              style={{height: '250px'}}
                         />
                         <p style={{width: '75%', margin: 'auto', paddingTop: '1em'}}>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda consequuntur distinctio eaque error illum natus, quia rem sit ullam? Atque eligendi error excepturi expedita natus nesciunt provident saepe temporibus vero!
+                            I am a solution oriented and highly motivated computer technician with years of technical troubleshooting experience. I take
+                            pride in providing creative solutions and out of the box thinking. I enjoys complex, multi-faceted assignments where pulling
+                            together a collaborative pool of skills is essential to solve complicated technical issues. I fosters a lively and professional
+                            work environment with my commitment to excellence, innovation, and customer service.
                         </p>
                     </Cell>
                     <Cell col={6}>
@@ -24,13 +27,13 @@ class Contact extends Component {
                                 <ListItem>
                                     <ListItemContent style={{fontsize:'30px', fontFamily: 'Anton'}}>
                                         <i className='fa fa-phone' aria-hidden="true"/>
-                                        (123) 456-7890
+                                        (916) 500-4393
                                     </ListItemContent>
                                 </ListItem>
                                 <ListItem>
                                     <ListItemContent style={{fontsize:'30px', fontFamily: 'Anton'}}>
                                         <i className='fa fa-envelope-open' aria-hidden="true"/>
-                                        Username@username.com
+                                        steven@syntaxflow.com
                                     </ListItemContent>
                                 </ListItem>
                             </List>
